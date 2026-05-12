@@ -111,18 +111,6 @@ Generated personalized movie recommendations for users.
 
 ---
 
-# 📸 Project Screenshots
-
-Add screenshots here later.
-
-Example:
-
-```markdown
-![Dashboard](images/dashboard.png)
-```
-
----
-
 # ▶️ How To Run Project
 
 ## 1. Clone Repository
